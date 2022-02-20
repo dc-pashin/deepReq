@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Petr",
+        "sename": "Ivanov",
+        "age": 22,
+
+        "job": {
+            "first":  "example1",
+            "second": "example2",
+            "more": {
+                "xxx": "zzz"
+            }
+        }
+    },
+    {
+        "id": 1,
+        "title": "hello",
+
+        "parts": [
+            {
+                "abc": 123
+            }
+        ]
+    }
+]
+
